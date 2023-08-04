@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ines-bettaieb.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Extract meaningful and semantic keywords using KeyBERT and Streamlit</title>
+      <link>https://ines-bettaieb.github.io/Portfolio/post/chapter-3/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ines-bettaieb.github.io/Portfolio/post/chapter-3/</guid>
+      <description>Backgroud
+In today&amp;rsquo;s digital age, information overload is a common challenge. Whether you&amp;rsquo;re a student, researcher, or professional, sifting through mountains of text to extract the most crucial information can be time-consuming and daunting. This is where tools like KeyBert and Streamlit come into play, offering a user-friendly solution for automatic keyword extraction.
+Understanding KeyBert: Your Keyword Wizard
+Before we embark on a tutorial to build an interactive Streamlit app, let&amp;rsquo;s unveil the brilliance of KeyBert.</description>
+    </item>
+    
+    <item>
       <title>Tweet Sentiment Classification</title>
       <link>https://ines-bettaieb.github.io/Portfolio/post/chapter-1/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>

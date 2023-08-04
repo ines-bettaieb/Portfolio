@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Ines Bettaieb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ines-bettaieb.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ines-bettaieb.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KeyBert</title>
+      <link>https://ines-bettaieb.github.io/Portfolio/tags/keybert/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ines-bettaieb.github.io/Portfolio/tags/keybert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://ines-bettaieb.github.io/Portfolio/tags/nlp/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ines-bettaieb.github.io/Portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streamlit</title>
+      <link>https://ines-bettaieb.github.io/Portfolio/tags/streamlit/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ines-bettaieb.github.io/Portfolio/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformers</title>
+      <link>https://ines-bettaieb.github.io/Portfolio/tags/transformers/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ines-bettaieb.github.io/Portfolio/tags/transformers/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>BERT</title>
       <link>https://ines-bettaieb.github.io/Portfolio/tags/bert/</link>
@@ -31,15 +67,6 @@
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ines-bettaieb.github.io/Portfolio/tags/hugging-face/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://ines-bettaieb.github.io/Portfolio/tags/nlp/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ines-bettaieb.github.io/Portfolio/tags/nlp/</guid>
       <description></description>
     </item>
     

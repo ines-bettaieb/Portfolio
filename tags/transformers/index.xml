@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NLP on Ines Bettaieb</title>
-    <link>https://ines-bettaieb.github.io/Portfolio/tags/nlp/</link>
-    <description>Recent content in NLP on Ines Bettaieb</description>
+    <title>Transformers on Ines Bettaieb</title>
+    <link>https://ines-bettaieb.github.io/Portfolio/tags/transformers/</link>
+    <description>Recent content in Transformers on Ines Bettaieb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ines-bettaieb.github.io/Portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ines-bettaieb.github.io/Portfolio/tags/transformers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extract meaningful and semantic keywords using KeyBERT and Streamlit</title>
       <link>https://ines-bettaieb.github.io/Portfolio/post/chapter-3/</link>
@@ -17,16 +17,6 @@
 In today&amp;rsquo;s digital age, information overload is a common challenge. Whether you&amp;rsquo;re a student, researcher, or professional, sifting through mountains of text to extract the most crucial information can be time-consuming and daunting. This is where tools like KeyBert and Streamlit come into play, offering a user-friendly solution for automatic keyword extraction.
 Understanding KeyBert: Your Keyword Wizard
 Before we embark on a tutorial to build an interactive Streamlit app, let&amp;rsquo;s unveil the brilliance of KeyBert.</description>
-    </item>
-    
-    <item>
-      <title>Tweet Sentiment Classification</title>
-      <link>https://ines-bettaieb.github.io/Portfolio/post/chapter-1/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ines-bettaieb.github.io/Portfolio/post/chapter-1/</guid>
-      <description>Introduction
-With all of the tweets circulating every second it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a person&amp;rsquo;s, brand for being viral (positive), or devastate profit because it strikes a negative tone. Capturing sentiment in language is important in these times where decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description?</description>
     </item>
     
   </channel>
